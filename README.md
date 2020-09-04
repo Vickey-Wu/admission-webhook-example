@@ -28,5 +28,5 @@ Build and push docker image
 
 ## How does it work?
 
-We have a blog post that explains webhooks in depth with the help of this example. Check [it](https://www.vickey-wu.com/posts/k8s-practice-records-5/) out!
+We have a blog post that explains webhooks in depth with the help of this example. Check [it](https://mp.weixin.qq.com/s/yY-QdGIOn4FQ_QatKKiDHQ) out!
 
